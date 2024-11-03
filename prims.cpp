@@ -1,5 +1,4 @@
 //Nicholas Guidice
-//CS 375 "Prim's Algorithm"
 
 #include <iostream>
 #include <vector>
